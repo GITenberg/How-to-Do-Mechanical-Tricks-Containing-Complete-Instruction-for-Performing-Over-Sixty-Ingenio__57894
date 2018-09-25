@@ -1,11 +1,16 @@
 _repo: How-to-Do-Mechanical-Tricks-Containing-Complete-Instruction-for-Performing-Over-Sixty-Ingenio__57894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anderson, A., active 1894-1902
     gutenberg_agent_id: '6542'
     url: http://www.gutenberg.org/2009/agents/6542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57894#How-to-Do-Mechanical-Tricks-Containing-Complete-Instruction-for-Performing-Over-Sixty-Ingenio_
 gutenberg_issued: '2018-09-13'
 gutenberg_type: Text
 identifiers:
